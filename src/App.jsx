@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './pages/Home';
-import Sidebar from '../../my-project/src/components/Sidebar';
+import Sidebar from './components/Sidebar';
 import About from './pages/About';
 import Experience from "./pages/Experience";
 import Skills from "./pages/Skills";
